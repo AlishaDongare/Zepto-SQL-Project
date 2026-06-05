@@ -110,22 +110,22 @@ The following analyses were performed:
 ## 📸 Project Screenshots
 
 ### Dataset Summary
-![Dataset Summary](Screenshots/dataset_summary.png)
+![Dataset Summary](dataset_summary.png)
 
 ### Dataset Preview
-![Dataset Preview](Screenshots/dataset_preview.png)
+![Dataset Preview](dataset_preview.png)
 
 ### Data Cleaning - Price Conversion
-![Data Cleaning](Screenshots/data_cleaning_price_conversion.png)
+![Data Cleaning](/data_cleaning_price_conversion.png)
 
 ### Category-wise Weight Analysis
-![Category Analysis](Screenshots/category_weight_analysis.png)
+![Category Analysis](category_weight_analysis.png)
 
 ### Premium Products Analysis
-![Premium Products](Screenshots/premium_products_analysis.png)
+![Premium Products](premium_products_analysis.png)
 
 ### High Value Out-of-Stock Products
-![Out Of Stock Products](Screenshots/out_of_stock_products.png)
+![Out Of Stock Products](out_of_stock_products.png)
 
 ---
 
