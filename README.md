@@ -1,10 +1,4 @@
-<img width="942" height="497" alt="dataset_summary" src="https://github.com/user-attachments/assets/641e9e1f-6118-4f82-a289-471b675b5972" />
-<img width="432" height="193" alt="out_of_stock_products" src="https://github.com/user-attachments/assets/90e3ecda-b7a1-4711-957a-9dc9c907663a" />
-<img width="598" height="196" alt="premium_products_analysis" src="https://github.com/user-attachments/assets/3474cf94-d672-4c95-ba77-597bdfeb2ed9" />
-<img width="263" height="371" alt="category_weight_analysis" src="https://github.com/user-attachments/assets/3f977fb4-a4ec-4bb1-8bab-306ac285bba7" />
-<img width="433" height="375" alt="data_cleaning_price_conversion" src="https://github.com/user-attachments/assets/f9483329-60eb-4562-b964-f0638de6f874" />
-<img width="616" height="375" alt="dataset_preview" src="https://github.com/user-attachments/assets/3eadbea9-81f9-4a32-9cbd-2d432260adaf" />
-<img width="433" height="375" alt="data_cleaning_price_conversion" src="https://github.com/user-attachments/assets/258aa3c5-afe8-46c3-b5f5-fae73ef69981" />
+
 # 🛒 Zepto E-Commerce Inventory Analysis | PostgreSQL SQL Project
 
 ## 📌 Project Overview
